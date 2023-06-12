@@ -1,3 +1,3 @@
 # JuegoPlataformas_Mario
-Mi primer Juego Plataformas tipo mario
+My first platform game like Mario
 https://jonathanbaquero01.github.io/JuegoPlataformas_Mario/
